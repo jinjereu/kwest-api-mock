@@ -1,0 +1,60 @@
+{
+	"quests": [
+		{
+			"id": 1,
+			"title": "Breaking Down at Brito",
+			"imageSource": "https://twentytwo.co.nz/assets/Uploads/discover-britomart-night-life-2.jpg"
+		},
+		{
+			"id": 2,
+			"title": "Kickin' it at the Kings",
+			"imageSource": "https://supermodel-bestawards.s3.amazonaws.com/resized/migrated/entry/2775/1_resized-0-2344-0-1652.jpg?k=576c75e7bc"
+		},
+		{
+			"id": 3,
+			"title": "Perk up at Ponsonby",
+			"imageSource": "https://nz5.architecturemedia.net/site_media/media/cache/ec/d6/ecd6050cf46407e93ece7573fcd40a8c.jpg"
+		}
+	],
+	"venues": [
+		{
+			"id": 1,
+			"name": "REC",
+			"type": "drink",
+			"description": "Have a round of Rum at Rec!",
+			"questId": 1,
+			"latitude": -36.845276,
+			"longitude": 174.769628
+		},
+		{
+			"id": 2,
+			"name": "Mexico",
+			"type": "drink",
+			"description": "Share a jug of Margarita",
+			"questId": 1,
+			"latitude": -36.845216,
+			"longitude": 174.77024
+		},
+		{
+			"id": 3,
+			"name": "Brew on Quay",
+			"type": "food",
+			"description": "Fill up with some warm pies and special of the day",
+			"questId": 1,
+			"latitude": -36.844547,
+			"longitude": 174.770674
+		},
+		{
+			"id": 4,
+			"name": "Miann",
+			"type": "food",
+			"description": "Wind down with some hot chocolate and desserts",
+			"questId": 1,
+			"latitude": -36.844856,
+			"longitude": 174.76862
+		}
+	],
+	"profile": {
+		"name": "typicode"
+	}
+}
